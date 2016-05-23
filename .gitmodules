@@ -1,0 +1,3 @@
+[submodule "blasr"]
+	path = blasr
+	url = git@github.com:mchaisso/blasr
